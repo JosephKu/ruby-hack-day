@@ -15,18 +15,21 @@ Specification
     
 
 * Sample response:
+        ``
         <?xml version="1.0" encoding="UTF-8"?>
         <rsp stat="ok">
         <mediaid>abc123</mediaid>
         <mediaurl>http://<hostname>/abc123</mediaurl>
         </rsp>
-
+        ``
 
 * Sample error response:
+        ``
         <?xml version="1.0" encoding="UTF-8"?>
         <rsp stat="fail">
         <err code="1001" />
         </rsp>
+        ``
 
 
 
