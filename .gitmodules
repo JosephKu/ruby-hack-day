@@ -1,0 +1,3 @@
+[submodule "hack-hack-hack/barker"]
+	path = hack-hack-hack/barker
+	url = git://github.com/JosephKu/barker
