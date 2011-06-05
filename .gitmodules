@@ -1,4 +1,0 @@
-
-[submodule "rails/barker"]
-    path = rails/barker
-    url = git://github.com/JosephKu/barker
